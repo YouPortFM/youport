@@ -1,9 +1,10 @@
 ####YouPort TODO List
 
-#####Adam
+####Adam
 * Get Legend template on server
 * Customize template (images, text etc)
-#####Bruce
+
+####Bruce
 * ~~Get SSH Working on server~~
 * Get GitHub repo working on server
 * Write first draft of BeatPort API accessor
